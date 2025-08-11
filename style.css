@@ -35,25 +35,3 @@ body {
     height: 100%;
     width: 150px;
 }
-@keyframes slider {
-    0%, 20% {
-        background-image: url(./img/imagem1.jpeg);
-        --text-description: "Por do sól"
-    }
-    20%, 40% {
-        background-image: url(./img/imagem2.jpeg);
-        --text-description: "Por da lua!"
-    }
-    40%, 60% {
-        background-image: url(./img/imagem3.jpeg);
-        --text-description: "Volei de praia"
-    }
-    60%, 80% {
-        background-image: url(./img/imagem4.jpeg);
-        --text-description: "Fisioterapia"
-    }
-    80%, 100% {
-        background-image: url(./img/imagem5.jpeg);
-        --text-description: "Setup Gamer"
-    }
-}
