@@ -1,1 +1,1 @@
-# 02-SlideJS
+# 02-TrocaImagem
